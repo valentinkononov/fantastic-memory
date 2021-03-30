@@ -1,0 +1,1 @@
+export { numShort } from './core';
