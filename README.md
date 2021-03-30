@@ -45,6 +45,6 @@ Use `numShort` function:
 
 ## Stay in Touch
 
-* Author - [@ValentinKononov](https://twitter.com/ValentinKononov)k
+* Author - [@ValentinKononov](https://twitter.com/ValentinKononov)
 
 Thanks for using it! Enjoy coding!
