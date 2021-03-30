@@ -28,7 +28,7 @@ Function `numShort` does shortening as well as rounding of numbers so that you c
 Install package
 
 ```shell script
-    npm install ts-stronger-types --save
+    npm install ts-num-short --save
 ```
 
 Use `numShort` function:
