@@ -2,8 +2,8 @@
 
 ## Typescript based number shortener
 
-[![Build Status](https://travis-ci.org/valentinkononov/ts-num-short.svg?branch=master)](https://travis-ci.org/valentinkononov/ts-num-short)
-[![codecov](https://codecov.io/gh/valentinkononov/ts-num-short/branch/master/graph/badge.svg)](https://codecov.io/gh/valentinkononov/ts-num-short)
+[![Build Status](https://travis-ci.org/valentinkononov/ts-num-short.svg?branch=main)](https://travis-ci.org/valentinkononov/ts-num-short)
+[![codecov](https://codecov.io/gh/valentinkononov/ts-num-short/branch/main/graph/badge.svg)](https://codecov.io/gh/valentinkononov/ts-num-short)
 ![npm](https://img.shields.io/npm/v/ts-num-short)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/ts-num-short?label=bundle-size)
 ![npm](https://img.shields.io/npm/dm/ts-num-short)
