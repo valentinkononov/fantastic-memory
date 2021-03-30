@@ -1,6 +1,6 @@
 {
     "name": "ts-num-short",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Typescript based number shortener",
     "repository": "https://github.com/valentinkononov/ts-num-short",
     "issues": "https://github.com/valentinkononov/ts-num-short/issues",

@@ -1,4 +1,4 @@
-import { numShort } from './core';
+import { numShort } from '../src/core';
 
 describe('numShort', () => {
     it('should return raw value for small number', () => {

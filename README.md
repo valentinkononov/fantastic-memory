@@ -43,5 +43,8 @@ Use `numShort` function:
     numShort(1_000_000_000_000); // 1T
 ```
 
+## Stay in Touch
+
+* Author - [@ValentinKononov](https://twitter.com/ValentinKononov)k
 
 Thanks for using it! Enjoy coding!
